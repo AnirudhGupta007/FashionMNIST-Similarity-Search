@@ -1,4 +1,5 @@
 FashionMNIST Similarity Search 🔍
+
 📌 Overview
 This project implements multiple image similarity search methods on the FashionMNIST dataset, leveraging deep learning and traditional similarity search techniques. The goal is to efficiently find visually similar images from a gallery dataset using various feature extraction techniques.
 
@@ -24,18 +25,21 @@ Autoencoder-based Image Embeddings
 Uses Autoencoders to learn compact feature representations.
 Performs similarity search using Euclidean or Cosine distance.
 🛠️ Setup & Installation
+
 1️⃣ Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/AnirudhGupta007/FashionMNIST-Similarity-Search.git
 cd FashionMNIST-Similarity-Search
+
 2️⃣ Create a Virtual Environment (Optional but Recommended)
 bash
 Copy
 Edit
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+
 3️⃣ Install Dependencies
 bash
 Copy
