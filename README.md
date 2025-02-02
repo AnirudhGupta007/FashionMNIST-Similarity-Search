@@ -91,6 +91,7 @@ bash
 CopyEdit
 
 `📁 FashionMNIST-Similarity-Search
+
 │── 📄 README.md
 │── 📄 requirements.txt
 │── 📁 gallery_set/      # Image gallery for similarity search
