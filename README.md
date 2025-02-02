@@ -93,12 +93,19 @@ CopyEdit
 `📁 FashionMNIST-Similarity-Search
 
 │── 📄 README.md
+
 │── 📄 requirements.txt
+
 │── 📁 gallery_set/      # Image gallery for similarity search
+
 │── 📁 query_set/        # Query images to test similarity search
+
 │── 📝 method_1.ipynb    # CNN-based feature extraction
+
 │── 📝 method_2.ipynb    # Siamese Network
+
 │── 📝 method_3.ipynb    # Vision Transformers & CLIP
+
 │── 📝 method_4.ipynb    # Autoencoder & Hashing`
 
 **📌 Future Improvements**
